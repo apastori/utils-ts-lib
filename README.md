@@ -53,3 +53,11 @@ To run the tests, use the following command:
 ```bash
 pnpm test
 ```
+
+## Running the Application
+
+To run the `index.js` file with Node, use the following command:
+
+```bash
+pnpm start
+```
